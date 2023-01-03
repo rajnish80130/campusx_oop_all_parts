@@ -40,7 +40,7 @@ cust = Customer('nitish','male',add1)
 cust.print_address()
 
 cust.edit_profile('ankit','mumbai',111111,'maharastra')
-cust.print_address()'''
+cust.print_address()
 # method example
 # what about private attribute
 
@@ -582,4 +582,4 @@ class MobileApp(BankApp):
 mob = MobileApp()
 mob.security()
 mob.database()
-# obj = BankApp()
+# obj = BankApp()'''
